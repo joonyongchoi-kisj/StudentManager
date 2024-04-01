@@ -1,0 +1,387 @@
+Student Name,"Current 
+Grade Level","Student 
+Number",Course,Course Number,Grade,GPA Points,Storecode,"Historical
+Grade Level",Combined GPA+ (Grade * 100)+ AP Bounus (.333),Email Reference
+Mei Lin,9,123456,Advisory 9,10700,A,3.66952,S1,9,903.66952,9a27@kis.ac
+Mei Lin,9,123456,Biology,10410,A+,3.95185,S1,9,903.95185,9a27@kis.ac
+Mei Lin,9,123456,Chinese II,10501,C,0.04245,S1,9,900.04245,9a27@kis.ac
+Mei Lin,9,123456,English &amp; Writing 9,10203,A,3.62584,S1,9,903.62584,9a27@kis.ac
+Mei Lin,9,123456,Geometry,10000,C,1.30229,S1,9,901.30229,9a27@kis.ac
+Mei Lin,9,123456,Global Studies 9,10300,C-,1.44283,S1,9,901.44283,9a27@kis.ac
+Mei Lin,9,123456,Korean Language 9,10520,C-,1.49505,S1,9,901.49505,9a27@kis.ac
+Mei Lin,9,123456,Korean Social Studies 9,10521,B,2.61441,S1,9,902.61441,9a27@kis.ac
+Mei Lin,9,123456,PE Grade 9,10716,A+,3.87022,S1,9,903.87022,9a27@kis.ac
+Hiroshi Tanaka,9,2345673,Advisory 9,10700,A+,4,S1,9,904,9b27@kis.ac
+Hiroshi Tanaka,9,2345673,Biology,10410,A-,3.21968,S1,9,903.21968,9b27@kis.ac
+Hiroshi Tanaka,9,2345673,English &amp; Writing 9,10203,B+,2.99737,S1,9,902.99737,9b27@kis.ac
+Hiroshi Tanaka,9,2345673,Global Studies 9,10300,B,2.79674,S1,9,902.79674,9b27@kis.ac
+Hiroshi Tanaka,9,2345673,HS Choir,10651,A+,4,S1,9,904,9b27@kis.ac
+Hiroshi Tanaka,9,2345673,Korean Language 9,10520,C+,1.87998,S1,9,901.87998,9b27@kis.ac
+Hiroshi Tanaka,9,2345673,Korean Social Studies 9,10521,C,1.56283,S1,9,901.56283,9b27@kis.ac
+Hiroshi Tanaka,9,2345673,PE Grade 9,10716,C,0.12883,S1,9,900.12883,9b27@kis.ac
+Toph Beifong,9,3456782,Advisory 9,10700,B-,2.16737,S1,9,902.16737,9c27@kis.ac
+Toph Beifong,9,3456782,Biology,10410,A+,3.99616,S1,9,903.99616,9c27@kis.ac
+Toph Beifong,9,3456782,Chinese II,10501,C+,2,S1,9,902,9c27@kis.ac
+Toph Beifong,9,3456782,English &amp; Writing 9,10203,A-,3.23135,S1,9,903.23135,9c27@kis.ac
+Toph Beifong,9,3456782,Geometry,10000,A-,3.33343,S1,9,903.33343,9c27@kis.ac
+Toph Beifong,9,3456782,Global Studies 9,10300,A-,3.28554,S1,9,903.28554,9c27@kis.ac
+Toph Beifong,9,3456782,Korean Language 9,10520,A+,4,S1,9,904,9c27@kis.ac
+Toph Beifong,9,3456782,Korean Social Studies 9,10521,B+,2.87083,S1,9,902.87083,9c27@kis.ac
+Toph Beifong,9,3456782,PE Grade 9,10716,C,0.91899,S1,9,900.91899,9c27@kis.ac
+Rahul Gupta,10,4567895,Advisory 9,10700,B+,3,S1,9,903,10a26@kis.ac
+Rahul Gupta,10,4567895,Biology,10410,C+,1.98847,S1,9,901.98847,10a26@kis.ac
+Rahul Gupta,10,4567895,English &amp; Writing 9,10203,C,0.1347,S1,9,900.1347,10a26@kis.ac
+Rahul Gupta,10,4567895,Geometry,10000,C-,1.53363,S1,9,901.53363,10a26@kis.ac
+Rahul Gupta,10,4567895,Global Studies 9,10300,B,2.53716,S1,9,902.53716,10a26@kis.ac
+Rahul Gupta,10,4567895,Korean Language 9,10520,C,1.22405,S1,9,901.22405,10a26@kis.ac
+Rahul Gupta,10,4567895,Korean Social Studies 9,10521,A+,4,S1,9,904,10a26@kis.ac
+Rahul Gupta,10,4567895,PE Grade 9,10716,C,1.81609,S1,9,901.81609,10a26@kis.ac
+Rahul Gupta,10,4567895,Spanish I,10510,B,2.56365,S1,9,902.56365,10a26@kis.ac
+Rahul Gupta,10,4567895,Advisory 9,10700,C+,2.12519,S2,9,902.12519,10a26@kis.ac
+Rahul Gupta,10,4567895,Biology,10410,A+,4,S2,9,904,10a26@kis.ac
+Rahul Gupta,10,4567895,English &amp; Writing 9,10203,A,3.59941,S2,9,903.59941,10a26@kis.ac
+Rahul Gupta,10,4567895,Geometry,10000,A,3.7772,S2,9,903.7772,10a26@kis.ac
+Rahul Gupta,10,4567895,Global Studies 9,10300,C,1.69029,S2,9,901.69029,10a26@kis.ac
+Rahul Gupta,10,4567895,Korean Language 9,10520,B+,3,S2,9,903,10a26@kis.ac
+Rahul Gupta,10,4567895,Korean Social Studies 9,10521,C+,1.89542,S2,9,901.89542,10a26@kis.ac
+Rahul Gupta,10,4567895,PE Grade 9,10716,C,0.98051,S2,9,900.98051,10a26@kis.ac
+Rahul Gupta,10,4567895,Spanish I,10510,C-,1.29547,S2,9,901.29547,10a26@kis.ac
+Rahul Gupta,10,4567895,Advisory 10,10701,A,3.52099,S1,10,1003.52099,10a26@kis.ac
+Rahul Gupta,10,4567895,Algebra II,10015,A+,4,S1,10,1004,10a26@kis.ac
+Rahul Gupta,10,4567895,AP Environmental Science,10435,B-,2.25253,S1,10,1002.58553,10a26@kis.ac
+Rahul Gupta,10,4567895,Chemistry,10400,C,1.82646,S1,10,1001.82646,10a26@kis.ac
+Rahul Gupta,10,4567895,English 10,10210,A,3.58199,S1,10,1003.58199,10a26@kis.ac
+Rahul Gupta,10,4567895,Global Studies 10,10310,C,1.76932,S1,10,1001.76932,10a26@kis.ac
+Rahul Gupta,10,4567895,Graphic Design,10920,C,1.58366,S1,10,1001.58366,10a26@kis.ac
+Rahul Gupta,10,4567895,Korean Language 10,10522,C,1.58074,S1,10,1001.58074,10a26@kis.ac
+Rahul Gupta,10,4567895,Korean Social Studies 10,10523,B+,3,S1,10,1003,10a26@kis.ac
+Rahul Gupta,10,4567895,PE Grade 10,10712,C+,2.13976,S1,10,1002.13976,10a26@kis.ac
+Li Wei,10,5678908,Advisory 9,10700,A,3.65811,S1,9,903.65811,10b26@kis.ac
+Li Wei,10,5678908,Biology,10410,B-,2.19783,S1,9,902.19783,10b26@kis.ac
+Li Wei,10,5678908,English &amp; Writing 9,10203,C,0.97643,S1,9,900.97643,10b26@kis.ac
+Li Wei,10,5678908,Geometry,10000,C+,1.90529,S1,9,901.90529,10b26@kis.ac
+Li Wei,10,5678908,Global Studies 9,10300,C,0.09764,S1,9,900.09764,10b26@kis.ac
+Li Wei,10,5678908,Korean Language 9,10520,B+,3.00023,S1,9,903.00023,10b26@kis.ac
+Li Wei,10,5678908,Korean Social Studies 9,10521,C,0.80288,S1,9,900.80288,10b26@kis.ac
+Li Wei,10,5678908,PE Grade 9,10716,B-,2.2221,S1,9,902.2221,10b26@kis.ac
+Li Wei,10,5678908,Public Speaking,10260,B+,3,S1,9,903,10b26@kis.ac
+Li Wei,10,5678908,Advisory 9,10700,C,1.78995,S2,9,901.78995,10b26@kis.ac
+Li Wei,10,5678908,Biology,10410,C,1.31902,S2,9,901.31902,10b26@kis.ac
+Li Wei,10,5678908,English &amp; Writing 9,10203,D-,0.04464,S2,9,900.04464,10b26@kis.ac
+Li Wei,10,5678908,Geometry,10000,D,0.83906,S2,9,900.83906,10b26@kis.ac
+Li Wei,10,5678908,Global Studies 9,10300,D,0.58616,S2,9,900.58616,10b26@kis.ac
+Li Wei,10,5678908,Korean Language 9,10520,C-,1.75922,S2,9,901.75922,10b26@kis.ac
+Li Wei,10,5678908,Korean Social Studies 9,10521,C,1.2917,S2,9,901.2917,10b26@kis.ac
+Li Wei,10,5678908,PE Grade 9,10716,A+,3.89615,S2,9,903.89615,10b26@kis.ac
+Li Wei,10,5678908,Yearbook,10940,A-,3.22417,S2,9,903.22417,10b26@kis.ac
+Li Wei,10,5678908,Advisory 10,10701,B+,3,S1,10,1003,10b26@kis.ac
+Li Wei,10,5678908,Algebra II,10015,B+,3.04044,S1,10,1003.04044,10b26@kis.ac
+Li Wei,10,5678908,AP Psychology,10342,B+,2.93332,S1,10,1003.26632,10b26@kis.ac
+Li Wei,10,5678908,Chemistry,10400,B-,2.25461,S1,10,1002.25461,10b26@kis.ac
+Li Wei,10,5678908,English 10,10210,C,1.00025,S1,10,1001.00025,10b26@kis.ac
+Li Wei,10,5678908,Global Studies 10,10310,C+,2,S1,10,1002,10b26@kis.ac
+Li Wei,10,5678908,Korean Language 10,10522,C,0.48199,S1,10,1000.48199,10b26@kis.ac
+Li Wei,10,5678908,Korean Social Studies 10,10523,A+,3.88606,S1,10,1003.88606,10b26@kis.ac
+Li Wei,10,5678908,PE Grade 10,10712,A+,4,S1,10,1004,10b26@kis.ac
+Li Wei,10,5678908,Spanish I,10510,A,3.54816,S1,10,1003.54816,10b26@kis.ac
+Katara Nguyen Thanh,10,6789011,Advisory 9,10700,A+,3.97857,S1,9,903.97857,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Biology,10410,C,1,S1,9,901,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Geometry,10000,C+,2.1313,S1,9,902.1313,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Global Studies 9,10300,A-,3.47005,S1,9,903.47005,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Honors English &amp; Writing 9,10204,C+,1.97635,S1,9,901.97635,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,PE Grade 9,10716,C+,2.01855,S1,9,902.01855,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Spanish II,10511,B-,2.48827,S1,9,902.48827,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Theater I,10630,B,2.53538,S1,9,902.53538,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Advisory 9,10700,B+,3,S2,9,903,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Biology,10410,C,0.1307,S2,9,900.1307,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Geometry,10000,C-,1.20083,S2,9,901.20083,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Global Studies 9,10300,C-,1.36033,S2,9,901.36033,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Honors English &amp; Writing 9,10204,C+,2.0544,S2,9,902.0544,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,PE Grade 9,10716,C,1.03882,S2,9,901.03882,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Spanish II,10511,A-,3.15819,S2,9,903.15819,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Theater II,10631,A+,4,S2,9,904,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Advanced Theater,10638,C,0.59015,S1,10,1000.59015,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Advisory 10,10701,D-,0.13341,S1,10,1000.13341,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Algebra II,10015,D-,0.13122,S1,10,1000.13122,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Chemistry,10400,B-,2.36878,S1,10,1002.36878,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,English 10,10210,B-,2.22974,S1,10,1002.22974,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Global Studies 10,10310,C+,2,S1,10,1002,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,PE Grade 10,10712,A,3.76085,S1,10,1003.76085,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Physics,10422,C+,1.98005,S1,10,1001.98005,10c26@kis.ac
+Katara Nguyen Thanh,10,6789011,Spanish III,10512,C,0.64463,S1,10,1000.64463,10c26@kis.ac
+Azula Priya Patel,11,7890124,Advisory 9,10700,D-,0.19187,S1,9,900.19187,11a25@kis.ac
+Azula Priya Patel,11,7890124,Biology,10410,C-,1.59736,S1,9,901.59736,11a25@kis.ac
+Azula Priya Patel,11,7890124,English &amp; Writing 9,10203,C,1.42854,S1,9,901.42854,11a25@kis.ac
+Azula Priya Patel,11,7890124,Geometry,10000,B,2.8493,S1,9,902.8493,11a25@kis.ac
+Azula Priya Patel,11,7890124,Global Studies 9,10300,B+,3,S1,9,903,11a25@kis.ac
+Azula Priya Patel,11,7890124,Korean Language 9,10520,A-,3.49174,S1,9,903.49174,11a25@kis.ac
+Azula Priya Patel,11,7890124,Korean Social Studies 9,10521,C,0.72613,S1,9,900.72613,11a25@kis.ac
+Azula Priya Patel,11,7890124,PE Grade 9,10716,B+,3.12447,S1,9,903.12447,11a25@kis.ac
+Azula Priya Patel,11,7890124,Psychology,10340,B+,3,S1,9,903,11a25@kis.ac
+Azula Priya Patel,11,7890124,Advisory 9,10700,A-,3.30421,S2,9,903.30421,11a25@kis.ac
+Azula Priya Patel,11,7890124,Biology,10410,C,0.89876,S2,9,900.89876,11a25@kis.ac
+Azula Priya Patel,11,7890124,English &amp; Writing 9,10203,C-,1.52053,S2,9,901.52053,11a25@kis.ac
+Azula Priya Patel,11,7890124,Geometry,10000,A-,3.49043,S2,9,903.49043,11a25@kis.ac
+Azula Priya Patel,11,7890124,Global Studies 9,10300,C+,2,S2,9,902,11a25@kis.ac
+Azula Priya Patel,11,7890124,Graphic Design,10920,B-,2.39407,S2,9,902.39407,11a25@kis.ac
+Azula Priya Patel,11,7890124,Korean Language 9,10520,B-,2.15058,S2,9,902.15058,11a25@kis.ac
+Azula Priya Patel,11,7890124,Korean Social Studies 9,10521,B,2.64912,S2,9,902.64912,11a25@kis.ac
+Azula Priya Patel,11,7890124,PE Grade 9,10716,C,0.8084,S2,9,900.8084,11a25@kis.ac
+Azula Priya Patel,11,7890124,Advisory 10,10701,A,3.55753,S1,10,1003.55753,11a25@kis.ac
+Azula Priya Patel,11,7890124,Algebra II,10015,C,1.8382,S1,10,1001.8382,11a25@kis.ac
+Azula Priya Patel,11,7890124,AP Psychology,10342,C,0.72647,S1,10,1001.05947,11a25@kis.ac
+Azula Priya Patel,11,7890124,Chemistry,10400,D-,0.36533,S1,10,1000.36533,11a25@kis.ac
+Azula Priya Patel,11,7890124,English 10,10210,B+,3,S1,10,1003,11a25@kis.ac
+Azula Priya Patel,11,7890124,Global Studies 10,10310,C,0.15006,S1,10,1000.15006,11a25@kis.ac
+Azula Priya Patel,11,7890124,Korean Language 10,10522,D,0.65332,S1,10,1000.65332,11a25@kis.ac
+Azula Priya Patel,11,7890124,Korean Social Studies 10,10523,D-,0.23143,S1,10,1000.23143,11a25@kis.ac
+Azula Priya Patel,11,7890124,PE Grade 10,10712,B,2.50135,S1,10,1002.50135,11a25@kis.ac
+Azula Priya Patel,11,7890124,Visual Art I,10613,C,1.59171,S1,10,1001.59171,11a25@kis.ac
+Azula Priya Patel,11,7890124,Advisory 10,10701,C,0.89598,S2,10,1000.89598,11a25@kis.ac
+Azula Priya Patel,11,7890124,Algebra II,10015,B+,3.05298,S2,10,1003.05298,11a25@kis.ac
+Azula Priya Patel,11,7890124,AP Psychology,10342,C+,1.92144,S2,10,1002.25444,11a25@kis.ac
+Azula Priya Patel,11,7890124,Chemistry,10400,C,0.76321,S2,10,1000.76321,11a25@kis.ac
+Azula Priya Patel,11,7890124,English 10,10210,D+,0.97249,S2,10,1000.97249,11a25@kis.ac
+Azula Priya Patel,11,7890124,Global Studies 10,10310,A+,4,S2,10,1004,11a25@kis.ac
+Azula Priya Patel,11,7890124,Korean Language 10,10522,A-,3.38676,S2,10,1003.38676,11a25@kis.ac
+Azula Priya Patel,11,7890124,Korean Social Studies 10,10523,B,2.77612,S2,10,1002.77612,11a25@kis.ac
+Azula Priya Patel,11,7890124,PE Grade 10,10712,C,1.78986,S2,10,1001.78986,11a25@kis.ac
+Azula Priya Patel,11,7890124,Visual Art II,10614,B+,3.07101,S2,10,1003.07101,11a25@kis.ac
+Azula Priya Patel,11,7890124,Advisory 11,10702,B+,3,S1,11,1103,11a25@kis.ac
+Azula Priya Patel,11,7890124,AP 2-D Design,10620,C,0.69394,S1,11,1101.02694,11a25@kis.ac
+Azula Priya Patel,11,7890124,AP Calculus AB,10531,C-,1.78618,S1,11,1102.11918,11a25@kis.ac
+Azula Priya Patel,11,7890124,AP English Language and Composition,10221,C,1.1531,S1,11,1101.4861,11a25@kis.ac
+Azula Priya Patel,11,7890124,Physics,10422,A-,3.28367,S1,11,1103.28367,11a25@kis.ac
+Azula Priya Patel,11,7890124,Theater I,10630,C+,2,S1,11,1102,11a25@kis.ac
+Azula Priya Patel,11,7890124,US History,10330,C,1.0472,S1,11,1101.0472,11a25@kis.ac
+Zuco Zhang Han,11,8901239,Advisory 9,10700,B+,3.08096,S1,9,903.08096,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Biology,10410,C,1.49566,S1,9,901.49566,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Chinese II,10501,B-,2.15161,S1,9,902.15161,11b25@kis.ac
+Zuco Zhang Han,11,8901239,English &amp; Writing 9,10203,C,1.42704,S1,9,901.42704,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Geometry,10000,B+,3,S1,9,903,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Global Studies 9,10300,A-,3.43931,S1,9,903.43931,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Korean Language 9,10520,C,0.53699,S1,9,900.53699,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Korean Social Studies 9,10521,A+,3.94118,S1,9,903.94118,11b25@kis.ac
+Zuco Zhang Han,11,8901239,PE Grade 9,10716,B-,2.39457,S1,9,902.39457,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Advisory 9,10700,C,1.26686,S2,9,901.26686,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Biology,10410,A+,4,S2,9,904,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Chinese II,10501,C,1.19127,S2,9,901.19127,11b25@kis.ac
+Zuco Zhang Han,11,8901239,English &amp; Writing 9,10203,D+,0.91638,S2,9,900.91638,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Geometry,10000,D-,0.05577,S2,9,900.05577,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Global Studies 9,10300,D+,0.91267,S2,9,900.91267,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Korean Language 9,10520,C-,1.28123,S2,9,901.28123,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Korean Social Studies 9,10521,D-,0.45504,S2,9,900.45504,11b25@kis.ac
+Zuco Zhang Han,11,8901239,PE Grade 9,10716,D-,0.34492,S2,9,900.34492,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Advisory 10,10701,C-,1.82306,S1,10,1001.82306,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Algebra II,10015,B-,2.16678,S1,10,1002.16678,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Chemistry,10400,B+,3,S1,10,1003,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Chinese III,10502,C,0.06292,S1,10,1000.06292,11b25@kis.ac
+Zuco Zhang Han,11,8901239,English 10,10210,C-,1.39354,S1,10,1001.39354,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Global Studies 10,10310,A,3.54972,S1,10,1003.54972,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Korean Language 10,10522,C,1.15814,S1,10,1001.15814,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Korean Social Studies 10,10523,D-,0.17216,S1,10,1000.17216,11b25@kis.ac
+Zuco Zhang Han,11,8901239,PE Grade 10,10712,B+,3.11437,S1,10,1003.11437,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Yearbook,10940,C+,2,S1,10,1002,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Advisory 10,10701,B,2.77394,S2,10,1002.77394,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Algebra II,10015,B,2.75911,S2,10,1002.75911,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Chemistry,10400,B+,3.06743,S2,10,1003.06743,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Chinese III,10502,B+,3.11817,S2,10,1003.11817,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Economics,10339,A-,3.2781,S2,10,1003.2781,11b25@kis.ac
+Zuco Zhang Han,11,8901239,English 10,10210,B,2.58661,S2,10,1002.58661,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Global Studies 10,10310,B-,2.36516,S2,10,1002.36516,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Korean Language 10,10522,C,1,S2,10,1001,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Korean Social Studies 10,10523,D,0.69436,S2,10,1000.69436,11b25@kis.ac
+Zuco Zhang Han,11,8901239,PE Grade 10,10712,D-,0.19043,S2,10,1000.19043,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Advisory 11,10702,C-,1.23877,S1,11,1101.23877,11b25@kis.ac
+Zuco Zhang Han,11,8901239,AP Calculus BC,10532,C-,1.17839,S1,11,1101.51139,11b25@kis.ac
+Zuco Zhang Han,11,8901239,AP Computer Science A,10438,A,3.82495,S1,11,1104.15795,11b25@kis.ac
+Zuco Zhang Han,11,8901239,AP Physics 1,10432,A+,4,S1,11,1104.333,11b25@kis.ac
+Zuco Zhang Han,11,8901239,English 11,10220,A,3.84815,S1,11,1103.84815,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Graphic Design,10920,C,1.43437,S1,11,1101.43437,11b25@kis.ac
+Zuco Zhang Han,11,8901239,Robotics,10900,D-,0.43163,S1,11,1100.43163,11b25@kis.ac
+Zuco Zhang Han,11,8901239,US History,10330,C+,2.06438,S1,11,1102.06438,11b25@kis.ac
+Aya Yamamoto,11,8901231,Advisory 9,10700,C,0.26904,S1,9,900.26904,11c25@kis.ac
+Aya Yamamoto,11,8901231,Biology,10410,B-,2.42228,S1,9,902.42228,11c25@kis.ac
+Aya Yamamoto,11,8901231,English &amp; Writing 9,10203,A,3.74729,S1,9,903.74729,11c25@kis.ac
+Aya Yamamoto,11,8901231,Global Studies 9,10300,B,2.60615,S1,9,902.60615,11c25@kis.ac
+Aya Yamamoto,11,8901231,Honors Geometry,10009,C,0.49072,S1,9,900.49072,11c25@kis.ac
+Aya Yamamoto,11,8901231,HS Boarding,10975,B+,2.96028,S1,9,902.96028,11c25@kis.ac
+Aya Yamamoto,11,8901231,Korean Language 9,10520,C,1,S1,9,901,11c25@kis.ac
+Aya Yamamoto,11,8901231,Korean Social Studies 9,10521,A+,3.9072,S1,9,903.9072,11c25@kis.ac
+Aya Yamamoto,11,8901231,PE Grade 9,10716,A+,3.97049,S1,9,903.97049,11c25@kis.ac
+Aya Yamamoto,11,8901231,Spanish I,10510,C+,1.93165,S1,9,901.93165,11c25@kis.ac
+Aya Yamamoto,11,8901231,Advisory 9,10700,C+,2.08869,S2,9,902.08869,11c25@kis.ac
+Aya Yamamoto,11,8901231,Biology,10410,C+,2,S2,9,902,11c25@kis.ac
+Aya Yamamoto,11,8901231,English &amp; Writing 9,10203,C,0.09978,S2,9,900.09978,11c25@kis.ac
+Aya Yamamoto,11,8901231,Global Studies 9,10300,C-,1.48548,S2,9,901.48548,11c25@kis.ac
+Aya Yamamoto,11,8901231,Honors Geometry,10009,A-,3.44724,S2,9,903.44724,11c25@kis.ac
+Aya Yamamoto,11,8901231,HS Boarding,10975,C,1.47451,S2,9,901.47451,11c25@kis.ac
+Aya Yamamoto,11,8901231,Korean Language 9,10520,D+,0.99546,S2,9,900.99546,11c25@kis.ac
+Aya Yamamoto,11,8901231,Korean Social Studies 9,10521,B+,3,S2,9,903,11c25@kis.ac
+Aya Yamamoto,11,8901231,PE Grade 9,10716,C,1.09755,S2,9,901.09755,11c25@kis.ac
+Aya Yamamoto,11,8901231,Spanish I,10510,C+,1.89916,S2,9,901.89916,11c25@kis.ac
+Aya Yamamoto,11,8901231,Advisory 10,10701,C,0.27812,S1,10,1000.27812,11c25@kis.ac
+Aya Yamamoto,11,8901231,AP Computer Science Principles,10944,D-,0.1501,S1,10,1000.4831,11c25@kis.ac
+Aya Yamamoto,11,8901231,Chemistry,10400,B+,3,S1,10,1003,11c25@kis.ac
+Aya Yamamoto,11,8901231,Global Studies 10,10310,B+,3.0352,S1,10,1003.0352,11c25@kis.ac
+Aya Yamamoto,11,8901231,Honors Algebra II,10016,A,3.82523,S1,10,1003.82523,11c25@kis.ac
+Aya Yamamoto,11,8901231,Honors English 10,10211,C,1.29494,S1,10,1001.29494,11c25@kis.ac
+Aya Yamamoto,11,8901231,Korean Language 10,10522,A-,3.31781,S1,10,1003.31781,11c25@kis.ac
+Aya Yamamoto,11,8901231,Korean Social Studies 10,10523,C,0.46342,S1,10,1000.46342,11c25@kis.ac
+Aya Yamamoto,11,8901231,PE Grade 10,10712,A-,3.19213,S1,10,1003.19213,11c25@kis.ac
+Aya Yamamoto,11,8901231,Spanish II,10511,A,3.55048,S1,10,1003.55048,11c25@kis.ac
+Aya Yamamoto,11,8901231,Advisory 10,10701,C+,1.96217,S2,10,1001.96217,11c25@kis.ac
+Aya Yamamoto,11,8901231,AP Computer Science Principles,10944,C+,2,S2,10,1002.333,11c25@kis.ac
+Aya Yamamoto,11,8901231,Chemistry,10400,C,0.50437,S2,10,1000.50437,11c25@kis.ac
+Aya Yamamoto,11,8901231,Global Studies 10,10310,C-,1.23236,S2,10,1001.23236,11c25@kis.ac
+Aya Yamamoto,11,8901231,Honors Algebra II,10016,C-,1.57781,S2,10,1001.57781,11c25@kis.ac
+Aya Yamamoto,11,8901231,Honors English 10,10211,A,3.58639,S2,10,1003.58639,11c25@kis.ac
+Aya Yamamoto,11,8901231,Korean Language 10,10522,A+,3.86318,S2,10,1003.86318,11c25@kis.ac
+Aya Yamamoto,11,8901231,Korean Social Studies 10,10523,C,1.01161,S2,10,1001.01161,11c25@kis.ac
+Aya Yamamoto,11,8901231,PE Grade 10,10712,C-,1.28254,S2,10,1001.28254,11c25@kis.ac
+Aya Yamamoto,11,8901231,Spanish II,10511,A-,3.46021,S2,10,1003.46021,11c25@kis.ac
+Aya Yamamoto,11,8901231,Advisory 11,10702,B,2.78613,S1,11,1102.78613,11c25@kis.ac
+Aya Yamamoto,11,8901231,AP Calculus BC,10532,B+,3,S1,11,1103.333,11c25@kis.ac
+Aya Yamamoto,11,8901231,AP Chemistry,10431,C,1.64227,S1,11,1101.97527,11c25@kis.ac
+Aya Yamamoto,11,8901231,AP Physics 1,10432,C,0.60074,S1,11,1100.93374,11c25@kis.ac
+Aya Yamamoto,11,8901231,AP Seminar,10222,C+,1.90332,S1,11,1102.23632,11c25@kis.ac
+Aya Yamamoto,11,8901231,English 11,10220,A-,3.19154,S1,11,1103.19154,11c25@kis.ac
+Aya Yamamoto,11,8901231,US History,10330,C,0.95314,S1,11,1100.95314,11c25@kis.ac
+Aang Rajesh Kumar,11,6012345,Advisory 9,10700,C+,2.08152,S1,9,902.08152,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Biology,10410,C,0.49223,S1,9,900.49223,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,English &amp; Writing 9,10203,C-,1.55225,S1,9,901.55225,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,English for Academic Purposes,10251,B+,2.94514,S1,9,902.94514,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Geometry,10000,C,0.07633,S1,9,900.07633,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Global Studies 9,10300,C-,1.38921,S1,9,901.38921,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Korean Language 9,10520,B-,2.47155,S1,9,902.47155,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Korean Social Studies 9,10521,C+,2,S1,9,902,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,PE Grade 9,10716,C,1.50719,S1,9,901.50719,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Advisory 9,10700,C,1.39314,S2,9,901.39314,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Biology,10410,B-,2.44943,S2,9,902.44943,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Digital Photography,10610,C,0.88303,S2,9,900.88303,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,English &amp; Writing 9,10203,B,2.63617,S2,9,902.63617,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Geometry,10000,B+,3.07429,S2,9,903.07429,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Global Studies 9,10300,B,2.84411,S2,9,902.84411,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Korean Language 9,10520,C,1.41774,S2,9,901.41774,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Korean Social Studies 9,10521,C-,1.79905,S2,9,901.79905,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,PE Grade 9,10716,C,0.38247,S2,9,900.38247,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Advisory 10,10701,A+,4,S1,10,1004,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Algebra II,10015,C,1.64456,S1,10,1001.64456,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Chemistry,10400,B,2.72069,S1,10,1002.72069,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,English 10,10210,B+,3.09525,S1,10,1003.09525,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Global Studies 10,10310,C,0.13048,S1,10,1000.13048,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,HS Concert Band,10646,D+,1.14419,S1,10,1001.14419,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Korean Language 10,10522,D-,0.36175,S1,10,1000.36175,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Korean Social Studies 10,10523,D,0.52142,S1,10,1000.52142,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,PE Grade 10,10712,C-,1.16558,S1,10,1001.16558,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Theater I,10630,C-,1.6525,S1,10,1001.6525,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Advisory 10,10701,B-,2.47436,S2,10,1002.47436,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Algebra II,10015,B+,2.91068,S2,10,1002.91068,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Chemistry,10400,A+,4,S2,10,1004,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,English 10,10210,B+,3.12072,S2,10,1003.12072,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Global Studies 10,10310,B+,3.07698,S2,10,1003.07698,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,HS Concert Band,10646,A-,3.36877,S2,10,1003.36877,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Korean Language 10,10522,C,1.01266,S2,10,1001.01266,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Korean Social Studies 10,10523,D-,0.4701,S2,10,1000.4701,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,PE Grade 10,10712,B,2.81614,S2,10,1002.81614,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Yearbook,10940,C+,2.10483,S2,10,1002.10483,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Advisory 11,10702,A,3.7003,S1,11,1103.7003,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,AP Seminar,10222,A-,3.47768,S1,11,1103.81068,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,English 11,10220,A-,3.31859,S1,11,1103.31859,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Film as Literature,10244,A+,4,S1,11,1104,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,HS Concert Band,10646,C,1.37258,S1,11,1101.37258,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Physics,10422,B-,2.43399,S1,11,1102.43399,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,Pre-Calculus,10002,C,0.80296,S1,11,1100.80296,11d25@kis.ac
+Aang Rajesh Kumar,11,6012345,US History,10330,D-,0.12058,S1,11,1100.12058,11d25@kis.ac
+Sokka Min Kim,11,7856992,Advisory 9,10700,D+,1.01713,S1,9,901.01713,11e25@kis.ac
+Sokka Min Kim,11,7856992,Biology,10410,B+,2.88298,S1,9,902.88298,11e25@kis.ac
+Sokka Min Kim,11,7856992,English &amp; Writing 9,10203,C,0.32893,S1,9,900.32893,11e25@kis.ac
+Sokka Min Kim,11,7856992,English for Academic Purposes,10251,D-,0.25579,S1,9,900.25579,11e25@kis.ac
+Sokka Min Kim,11,7856992,Geometry,10000,B-,2.15773,S1,9,902.15773,11e25@kis.ac
+Sokka Min Kim,11,7856992,Global Studies 9,10300,C+,1.99865,S1,9,901.99865,11e25@kis.ac
+Sokka Min Kim,11,7856992,Korean Language 9,10520,A-,3.20326,S1,9,903.20326,11e25@kis.ac
+Sokka Min Kim,11,7856992,Korean Social Studies 9,10521,C,1.63897,S1,9,901.63897,11e25@kis.ac
+Sokka Min Kim,11,7856992,PE Grade 9,10716,B+,3,S1,9,903,11e25@kis.ac
+Sokka Min Kim,11,7856992,Advisory 9,10700,C+,2.08913,S2,9,902.08913,11e25@kis.ac
+Sokka Min Kim,11,7856992,Biology,10410,A+,3.85377,S2,9,903.85377,11e25@kis.ac
+Sokka Min Kim,11,7856992,English &amp; Writing 9,10203,C,1.13416,S2,9,901.13416,11e25@kis.ac
+Sokka Min Kim,11,7856992,Geometry,10000,B-,2.35628,S2,9,902.35628,11e25@kis.ac
+Sokka Min Kim,11,7856992,Global Studies 9,10300,B+,3.01659,S2,9,903.01659,11e25@kis.ac
+Sokka Min Kim,11,7856992,Korean Language 9,10520,B-,2.20624,S2,9,902.20624,11e25@kis.ac
+Sokka Min Kim,11,7856992,Korean Social Studies 9,10521,B,2.65846,S2,9,902.65846,11e25@kis.ac
+Sokka Min Kim,11,7856992,PE Grade 9,10716,C,0.75292,S2,9,900.75292,11e25@kis.ac
+Sokka Min Kim,11,7856992,PE Grade 9,10716,A-,3.16423,S2,9,903.16423,11e25@kis.ac
+Sokka Min Kim,11,7856992,Yearbook,10940,C,0.01565,S2,9,900.01565,11e25@kis.ac
+Sokka Min Kim,11,7856992,Advisory 10,10701,B-,2.39993,S1,10,1002.39993,11e25@kis.ac
+Sokka Min Kim,11,7856992,AP Psychology,10342,A+,4,S1,10,1004.333,11e25@kis.ac
+Sokka Min Kim,11,7856992,Chemistry,10400,C,0.79011,S1,10,1000.79011,11e25@kis.ac
+Sokka Min Kim,11,7856992,English 10,10210,B+,2.90969,S1,10,1002.90969,11e25@kis.ac
+Sokka Min Kim,11,7856992,Global Studies 10,10310,C+,2.0352,S1,10,1002.0352,11e25@kis.ac
+Sokka Min Kim,11,7856992,Honors Algebra II,10016,C,0.26208,S1,10,1000.26208,11e25@kis.ac
+Sokka Min Kim,11,7856992,Honors Yearbook,10943,D-,0.35078,S1,10,1000.35078,11e25@kis.ac
+Sokka Min Kim,11,7856992,Korean Language 10,10522,C-,1.33629,S1,10,1001.33629,11e25@kis.ac
+Sokka Min Kim,11,7856992,Korean Social Studies 10,10523,C+,2.12117,S1,10,1002.12117,11e25@kis.ac
+Sokka Min Kim,11,7856992,PE Grade 10,10712,B+,3.04983,S1,10,1003.04983,11e25@kis.ac
+Sokka Min Kim,11,7856992,Advisory 10,10701,C,1.00549,S2,10,1001.00549,11e25@kis.ac
+Sokka Min Kim,11,7856992,AP Psychology,10342,A+,3.95729,S2,10,1004.29029,11e25@kis.ac
+Sokka Min Kim,11,7856992,Chemistry,10400,C,0.04684,S2,10,1000.04684,11e25@kis.ac
+Sokka Min Kim,11,7856992,English 10,10210,A-,3.19094,S2,10,1003.19094,11e25@kis.ac
+Sokka Min Kim,11,7856992,Global Studies 10,10310,C,0.20671,S2,10,1000.20671,11e25@kis.ac
+Sokka Min Kim,11,7856992,Honors Algebra II,10016,B-,2.35492,S2,10,1002.35492,11e25@kis.ac
+Sokka Min Kim,11,7856992,Honors Yearbook,10943,A-,3.37694,S2,10,1003.37694,11e25@kis.ac
+Sokka Min Kim,11,7856992,Korean Language 10,10522,C,0.0283,S2,10,1000.0283,11e25@kis.ac
+Sokka Min Kim,11,7856992,Korean Social Studies 10,10523,B+,2.96205,S2,10,1002.96205,11e25@kis.ac
+Sokka Min Kim,11,7856992,PE Grade 10,10712,C,1.09041,S2,10,1001.09041,11e25@kis.ac
+Sokka Min Kim,11,7856992,Advisory 11,10702,B-,2.35367,S1,11,1102.35367,11e25@kis.ac
+Sokka Min Kim,11,7856992,AP Calculus AB,10531,C+,2,S1,11,1102.333,11e25@kis.ac
+Sokka Min Kim,11,7856992,AP Chemistry,10431,C,0.58015,S1,11,1100.91315,11e25@kis.ac
+Sokka Min Kim,11,7856992,AP Physics 1,10432,A,3.74389,S1,11,1104.07689,11e25@kis.ac
+Sokka Min Kim,11,7856992,AP Seminar,10222,C,0.47925,S1,11,1100.81225,11e25@kis.ac
+Sokka Min Kim,11,7856992,English 11,10220,B+,3,S1,11,1103,11e25@kis.ac
+Sokka Min Kim,11,7856992,US History,10330,C,1.76429,S1,11,1101.76429,11e25@kis.ac
+Yue Ozai Oh,11,9182735,English &amp; Writing 9,10203,C,0.71631,S1,9,900.71631,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Geometry,10000,D,0.72472,S1,9,900.72472,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Global Studies 9,10300,A,3.6894,S1,9,903.6894,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Korean Language 9,10520,C,1.40555,S1,9,901.40555,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Korean Social Studies 9,10521,D-,0.37385,S1,9,900.37385,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Orchestra,10649,C-,1.38489,S1,9,901.38489,11f25@kis.ac
+Yue Ozai Oh,11,9182735,PE Grade 9,10716,B+,3.10835,S1,9,903.10835,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Advisory 9,10700,C,0.02901,S2,9,900.02901,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Biology,10410,A,3.73678,S2,9,903.73678,11f25@kis.ac
+Yue Ozai Oh,11,9182735,English &amp; Writing 9,10203,C,1.12125,S2,9,901.12125,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Geometry,10000,C+,2.0382,S2,9,902.0382,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Global Studies 9,10300,A+,4,S2,9,904,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Korean Language 9,10520,C,0.54644,S2,9,900.54644,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Korean Social Studies 9,10521,C-,1.22996,S2,9,901.22996,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Orchestra,10649,D,0.69219,S2,9,900.69219,11f25@kis.ac
+Yue Ozai Oh,11,9182735,PE Grade 9,10716,A,3.51633,S2,9,903.51633,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Advisory 10,10701,C,0.79352,S1,10,1000.79352,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Algebra II,10015,D,0.72815,S1,10,1000.72815,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Chemistry,10400,B+,3,S1,10,1003,11f25@kis.ac
+Yue Ozai Oh,11,9182735,English 10,10210,B-,2.16672,S1,10,1002.16672,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Global Studies 10,10310,C,0.42233,S1,10,1000.42233,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Honors Orchestra,10653,D-,0.29512,S1,10,1000.29512,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Korean Language 10,10522,B,2.55706,S1,10,1002.55706,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Korean Social Studies 10,10523,B,2.50228,S1,10,1002.50228,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Orchestra,10649,C+,2.02032,S1,10,1002.02032,11f25@kis.ac
+Yue Ozai Oh,11,9182735,PE Grade 10,10712,A-,3.24438,S1,10,1003.24438,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Theater I,10630,C,0.66401,S1,10,1000.66401,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Advisory 10,10701,D+,0.95787,S2,10,1000.95787,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Algebra II,10015,A,3.69891,S2,10,1003.69891,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Chemistry,10400,C+,2,S2,10,1002,11f25@kis.ac
+Yue Ozai Oh,11,9182735,English 10,10210,A-,3.30289,S2,10,1003.30289,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Global Studies 10,10310,C,0.76135,S2,10,1000.76135,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Graphic Design,10920,A-,3.2562,S2,10,1003.2562,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Honors Orchestra,10653,C,0.90949,S2,10,1000.90949,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Korean Language 10,10522,D,0.84841,S2,10,1000.84841,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Korean Social Studies 10,10523,A-,3.29704,S2,10,1003.29704,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Orchestra,10649,C,1.74065,S2,10,1001.74065,11f25@kis.ac
+Yue Ozai Oh,11,9182735,PE Grade 10,10712,C,1.16666,S2,10,1001.16666,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Advisory 11,10702,A+,4,S1,11,1104,11f25@kis.ac
+Yue Ozai Oh,11,9182735,AP English Language and Composition,10221,A+,3.94134,S1,11,1104.27434,11f25@kis.ac
+Yue Ozai Oh,11,9182735,AP Seminar,10222,C,0.78203,S1,11,1101.11503,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Physics,10422,D,0.72973,S1,11,1100.72973,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Pre-Calculus,10002,A-,3.46308,S1,11,1103.46308,11f25@kis.ac
+Yue Ozai Oh,11,9182735,US History,10330,C,0.5505,S1,11,1100.5505,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Visual Art I,10613,C-,1.30534,S1,11,1101.30534,11f25@kis.ac
+Yue Ozai Oh,11,9182735,Yearbook,10940,A+,3.85387,S1,11,1103.85387,11f25@kis.ac
